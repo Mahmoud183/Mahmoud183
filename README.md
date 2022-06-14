@@ -5,7 +5,7 @@
 
 ## 1. 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[CTO](https://getholidayz.com/)**
+- 🔭 I’m currently working on **[Co Founder & CTO of GetHoliDayz](https://getholidayz.com/)**
 
 - 🌱 I’m currently learning **<a href="https://get.webgl.org/" target="_blank">WebGL.js</a> And <a href="https://threejs.org/" target="_blank">Three.js</a>**
 
